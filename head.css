@@ -1,0 +1,287 @@
+.f-size-p-l {
+    font-size: 14px;
+}
+
+.f-size-p-lt {
+    font-size: 20px;
+    margin-left: -5px;
+}
+
+.wp-head {
+    position: relative;
+}
+
+.p-a-1 {
+    position: absolute;
+    top: 10px;
+    left: 40px;
+}
+
+.p-a-2 {
+    position: absolute;
+    top: -5px;
+    left: 290px;
+}
+
+.p-a-3 {
+    position: absolute;
+    top: -15px;
+    left: 270px;
+}
+
+.p-a-4 {
+    position: absolute;
+    top: -15px;
+    left: 250px;
+}
+
+.p-a-5 {
+    position: absolute;
+    top: -10px;
+    left: 1100px;
+}
+
+.icon1 {
+    color: red;
+}
+
+span>a {
+    text: none;
+    color: #eb3e32;
+}
+
+.fa.fa-search {
+    background-color: none;
+    margin: 0px;
+    font-size: 28px;
+    color: black;
+}
+
+.search {
+    position: relative;
+    padding-top: 20px;
+    margin-left: 10px;
+}
+
+button {
+    background: none;
+    border: 0px;
+    position: absolute;
+    top: 25px;
+    left: 460px;
+    font-size: 25px;
+}
+
+.f-phone {
+    margin: 0px;
+    padding-top: 1px;
+}
+
+.box1-logo {
+    display: flex;
+}
+
+.wp-search {
+    display: flex;
+}
+
+.f-search {
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 4px;
+    border: 1px solid #eb3e32;
+    margin-left: 150px;
+    width: 350px;
+    height: 40px;
+}
+
+.fa.fa-volume-control-phone {
+    color: #eb3e32;
+    font-size: 45px;
+    position: absolute;
+    top: 25px;
+    left: 45px;
+}
+
+.fa.fa-user-circle-o {
+    font-size: 45px;
+    color: #eb3e32;
+    position: absolute;
+    top: 28px;
+    left: 40px;
+}
+
+.login {
+    padding-left: 100px;
+    position: relative;
+}
+
+.phone {
+    padding-left: 100px;
+    position: relative;
+}
+
+.a-logo {
+    padding-left: 115px;
+    margin-right: -25px;
+}
+
+.content-phone {
+    margin-top: 25px;
+}
+
+.content-login {
+    margin-top: 25px;
+}
+
+.icon {
+    margin-top: 25px;
+    padding-left: 120px;
+    font-size: 26px;
+}
+
+.fa.fa-heart {
+    padding-right: 15px;
+    margin-left: -15px;
+}
+
+.fa.fa-arrows-alt {
+    padding-right: 15px;
+}
+
+
+/* =================BOX2-MENU===================== */
+
+.wp-nav {
+    height: 42px;
+    background-color: #eb3e32;
+}
+
+.wp-nav {
+    display: flex
+}
+
+
+/* === */
+
+nav>ul>li>a {
+    text-decoration: none;
+}
+
+
+/* ====== */
+
+.menu1 {
+    display: flex;
+    padding-left: 20px;
+    margin: 0px;
+    padding-top: 8px;
+}
+
+.pt-menu {
+    padding-right: 30px;
+    color: aliceblue;
+    font-size: 14px;
+}
+
+.pt1-menu {
+    padding-left: 150px;
+    color: aliceblue;
+    font-size: 13px;
+}
+
+.downslash {
+    color: aliceblue;
+    padding-left: 100px;
+    font-size: 20px;
+}
+
+.product-box1 {
+    margin: 0px;
+    padding-top: 2px;
+}
+
+.d-h {
+    text-decoration: none;
+}
+
+
+/* //asdasdasdsd */
+
+
+/* ==================con danh mục sản phẩm ============= */
+
+
+/* .product-box1>li:hover>.supmenu {
+    display: block;
+} */
+
+.rr:hover>.supmenu {
+    display: block;
+}
+
+.rr {
+    position: relative;
+}
+
+.supmenu {
+    width: 200px;
+    position: absolute;
+    display: none;
+    left: 120px;
+    /* padding-left: 150px; */
+}
+
+.bor-c {
+    background-color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-bottom: 1px solid rgb(168, 25, 25);
+}
+
+.decoration-c {
+    color: black;
+    text-decoration: none;
+    font-size: 13px;
+}
+
+
+/* ==================con danh mục sản phẩm ============= */
+
+
+/* ============con sản phẩm====================== */
+
+.sp-r:hover>.sp-a {
+    display: block;
+}
+
+.sp-r {
+    position: relative;
+}
+
+.sp-a {
+    position: absolute;
+    display: none;
+    padding-left: 5px;
+}
+
+.border-secandary {
+    border-bottom: 1px solid rosybrown;
+    padding-right: 5px;
+}
+
+.sp-b {
+    width: 100px;
+    position: absolute;
+    display: none;
+    padding-left: 5px;
+    left: 93px;
+    top: 0px;
+}
+
+.sp-r:hover>.sp-b {
+    display: block;
+}
+
+
+/* ============con sản phẩm====================== */

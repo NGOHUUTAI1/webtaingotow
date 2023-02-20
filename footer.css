@@ -1,0 +1,80 @@
+.wp-footer {
+    background: hsl(203, 14%, 23%);
+    height: 600px;
+}
+
+.color-white {
+    color: white;
+}
+
+
+/* =============== */
+
+.box1-footer {
+    display: flex;
+    padding-left: 100px;
+}
+
+.f-letter {
+    font-size: 14px;
+    color: white;
+}
+
+.t-letter {
+    font-size: 14px;
+}
+
+p>a {
+    text-decoration: none;
+    color: #8b8e96;
+}
+
+.pt2-box1-footer {
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+
+/* ================ */
+
+.box2-footer {
+    position: relative;
+    display: flex;
+    padding-left: 100px;
+}
+
+img.img_back-top {
+    width: 30px;
+    position: absolute;
+    top: 320px;
+    left: 1340px;
+}
+
+.back-top-top {
+    position: absolute;
+}
+
+.pt2-box2 {
+    padding-left: 230px;
+    padding-right: 230px;
+}
+
+.box3-f-footer {
+    margin: 0px;
+    text-align: center;
+    font-size: 12px;
+}
+
+.box4-footer {
+    text-align: center;
+    margin: 0px;
+    background: #323c42;
+}
+
+.coler-Footer {
+    color: #8b8e96;
+}
+
+.hr-footer {
+    margin: 0px;
+}
